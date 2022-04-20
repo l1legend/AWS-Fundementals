@@ -1,0 +1,10 @@
+Elastic load balancing prevents system comprimises of the EC2. Adds Layer of security. Load balancer balances user requests to portal so that the EC2 instance is not overwhelm. 
+This enables high availability and zero downtime.
+2 primary servers are up and running.
+
+EC2. Elastic Compute 2. Cloud Server. Auto scales if number users increases. 
+EC2 can be also be used to store and manage databases. 
+
+Beanstalk is a deployment platform that is used to configure deployment process. This is where azure is linked to elastic beanstalk. 
+Beanstalk will auto redeploy any prod instance by orcharstating automations tasks taht are pre scripted. 
+Has cost optimization features goes with concepts of high availability, security, and the balancing of all these pillars.
